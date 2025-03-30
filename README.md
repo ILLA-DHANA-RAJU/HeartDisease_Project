@@ -1,5 +1,5 @@
 🫀 Heart Disease Analysis Using Python 💙
-Hey there, darlings! This project is all about analyzing heart disease trends using Python, exploring how age and gender impact heart health. With data visualization and insights, we uncover hidden patterns to help understand heart disease risks better.
+    **This project is all about analyzing heart disease trends using Python, exploring how age and gender impact heart health. With data visualization and insights, we uncover hidden patterns to help understand heart disease risks better.**
 
 💡 Project Overview
 This project focuses on:
